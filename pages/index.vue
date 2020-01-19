@@ -21,7 +21,7 @@
       </div>
       <hr />
       <div class="skills">
-        <div class="skill-row">
+        <div class="skill-row mb-0">
           <div>
             <img class="computer" src="~/assets/computer.png" alt />
           </div>
@@ -32,9 +32,9 @@
             <p>Bootstrap, Vue.js, Nuxt.js, Ruby on Rails</p>
             <h3>Infrastructure</h3>
             <p>Heroku, MySQL, Docker, Jenkins, Slack, Git, Sourcetree, Bitbucket</p>
-            <nuxt-link to="portfolio" class="btn text-center">ポートフォリオ</nuxt-link>
           </div>
         </div>
+        <nuxt-link to="portfolio" class="btn text-center">Portfolio</nuxt-link>
       </div>
       <hr />
       <div class="contact-me">
@@ -53,7 +53,7 @@
       <a class="footer-link" href="https://www.linkedin.com/">LinkedIn</a>
       <a class="footer-link" href="https://twitter.com/">Twitter</a>
       <a class="footer-link" href="https://www.appbrewery.co/">Website</a>
-      <p>© 2018 Name Surname.</p>
+      <p>© 2020 Takuya Ueno</p>
     </div>
   </body>
 </div>
